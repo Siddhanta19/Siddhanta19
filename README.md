@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align = "center"> Konnichiwa World :wave:, I’m Siddhanta Paul :smile: </h1>
 
-<h3 align="center"> I'm Deeply Interested in :spider_web: Web :spider_web: Development. It's very Fascinating to Observe how Computers :desktop_computer: work.</h3>
+<h3 align="center"> Deeply Interested in :spider_web: Web :spider_web: Development. It's very Fascinating to Observe how Computers :desktop_computer: work.</h3>
 <br>
 <img align="right" alt="coding" width="170" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
