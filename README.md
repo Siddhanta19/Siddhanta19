@@ -3,7 +3,7 @@
 
 <h3 align="center"> I'm Deeply Interested in :spider_web: Web :spider_web: Development. It's very Fascinating to Observe how Computers :desktop_computer: work.</h3>
 <br>
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="170" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
