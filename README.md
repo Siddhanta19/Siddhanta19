@@ -6,7 +6,7 @@
 ## **Status :** 
 <table>
     <tr>
-        <td><h3>:seedling: I’m Growing My <strong>Coding Skills</strong></h3></td>
+        <td><h3>:seedling: I Continue to Grow My <strong>Coding Skills</strong></h3></td>
         <td><h3>:technologist: I Look Forward to <strong>Collaborate</strong> to <strong>Web Projects</strong> before long</h3></td>
     </tr>
 </table>
