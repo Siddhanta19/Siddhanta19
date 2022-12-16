@@ -1,7 +1,7 @@
 <!-- Intro -->
 # Hello World, I’m [Siddhanta Paul](https://github.com/Siddhanta19) </h1>
 
-<h3> I Have Dedicated Myself to Web Development
+<!-- <h3> I Have Dedicated Myself to Web Development -->
 
 ## **Status :** 
 <table>
