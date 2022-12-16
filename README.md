@@ -13,7 +13,7 @@
 
 ## **My Socials :** ️
 
-[![Twitter](https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png)](https://twitter.com/Siddhanta01)
+[![Twitter](https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png)](https://twitter.com/siddhantapaul01)
 
 <!---
 Siddhanta19/Siddhanta19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
